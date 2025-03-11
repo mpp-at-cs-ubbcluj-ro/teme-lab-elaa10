@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ComputerRepairRequestTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-03-04T06:52:29" hostname="DELFI" time="0.127">
+  <properties/>
+  <testcase name="Test obiect ComputerRepairRequest - Constructor și Getteri" classname="ComputerRepairRequestTest" time="0.114"/>
+  <testcase name="Test modificare date - Setteri" classname="ComputerRepairRequestTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
